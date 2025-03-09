@@ -1,5 +1,5 @@
 //words.ts
-export type Challenge ={
+export type Challenge = {
   id: number
   word: string
   tip: string
